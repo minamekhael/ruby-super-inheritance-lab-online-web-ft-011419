@@ -5,7 +5,7 @@ class Student
   end
 
   def raise_hand
-   puts "Pick me!"
+   puts "Pick me!".times(10)
   end
 
 end
